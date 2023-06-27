@@ -19,6 +19,10 @@ print(himom-"mom") # hi
 
 type(himom) # VARCHAR(5)
 
+print(himom.upper()) # HIMOM
+print(himmom.reversed()) # MOMIH
+print(himom.capitalized()) # Himom
+
 for char in himom:
   print(char)   # h\ni\nm\no\nm\n
 
