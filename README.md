@@ -20,7 +20,7 @@ print(himom-"mom") # hi
 type(himom) # VARCHAR(5)
 
 print(himom.upper()) # HIMOM
-print(himmom.reversed()) # MOMIH
+print(himmom.reversed()) # momih
 print(himom.capitalized()) # Himom
 
 for char in himom:
